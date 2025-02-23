@@ -26,15 +26,15 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer, lifelong le
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/Ansh-94)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)](https://github.com/your-username)
 
 ---
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Meghani Ansh]((https://www.linkedin.com/in/meghani-ansh-340785298/))
-- **Email:** [your.email@example.com](meghaniansh942005@example.com)
+- **LinkedIn:** [https://www.linkedin.com/in/meghani-ansh-340785298/]((https://www.linkedin.com/in/meghani-ansh-340785298/))
+- **Email:** [meghaniansh942005@gmail.com](meghaniansh942005@gmail.com)
 
 ---
 
