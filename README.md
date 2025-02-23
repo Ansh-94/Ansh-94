@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer, lifelong le
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/meghani-ansh-340785298/]((https://www.linkedin.com/in/meghani-ansh-340785298/))
-- **Email:** [meghaniansh942005@gmail.com](meghaniansh942005@gmail.com)
+- **LinkedIn:** [LinkedIn]((https://www.linkedin.com/in/meghani-ansh-340785298/))
+- **Email:** [meghaniansh942005@gmail.com/](meghaniansh942005@gmail.com)
 
 ---
 
