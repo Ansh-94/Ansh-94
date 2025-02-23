@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer, lifelong le
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/Ansh-94)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)](https://github.com/your-username)
+[![GitHub Stats](https://github.com/Ansh-94)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)](https://github.com/Ansh-94)
 
 ---
 
